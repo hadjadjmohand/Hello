@@ -1,10 +1,8 @@
-﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Hello;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace HelloTest
 {
     [TestClass]
-    public class UnitTest1
+    public class UnitTestJenkins
     {
         [TestMethod]
         public void TestMethod1()
@@ -13,3 +11,4 @@ namespace HelloTest
         }
     }
 }
+ 
